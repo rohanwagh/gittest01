@@ -5,7 +5,7 @@ public class GitTestDemo01
 	public static void main(String[] args)
 	{
 		System.out.println("Git Test");
-		System.out.println("Second Committ");
+		System.out.println("Second Commit");
 	}
 
 }
